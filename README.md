@@ -24,3 +24,4 @@ Hi 👋 , i am muhammad fawwaz almumtaz
 [![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Hono](https://img.shields.io/badge/redis-E36002?style=for-the-badge&logo=redis&logoColor=white)
