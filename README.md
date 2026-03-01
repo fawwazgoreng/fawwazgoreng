@@ -1,10 +1,11 @@
 Hi 👋 , i am muhammad fawwaz almumtaz 
 ---
 
-* 🌱 I’m currently learning phyton <br>
+* 🌱 I’m currently learning containers skill<br>
 * 👯 I’m looking to collaborate on web dev <br>
 * 🤔 I’m looking for help with <b> Dev Ops skill and Cloud Deployment <b> <br>
 * 📫 How to reach me: hatorimikael@gmail.com <br> <br>
+
 
 ## tech stack i use
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
