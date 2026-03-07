@@ -22,7 +22,6 @@ Hi 👋 , i am muhammad fawwaz almumtaz
 [![laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel&style=for-the-badge)]()
 [![react](https://img.shields.io/badge/ReactJs-black?logo=react&logoColor=white&style=for-the-badge)]()
 [![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)]()
-[![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)]()
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Hono](https://img.shields.io/badge/redis-E36002?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-E36002?style=for-the-badge&logo=redis&logoColor=white)
