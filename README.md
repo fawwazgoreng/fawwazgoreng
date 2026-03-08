@@ -1,5 +1,7 @@
 <div align="center">
 
+# 👾 Muhammad Fawwaz Almumtaz
+
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  "You have power over your code, not outside events.          ║
@@ -7,88 +9,9 @@
 ║                              — Marcus Aurelius (if he coded)  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
-# 👾 Muhammad Fawwaz Almumtaz
-
-<div align="center"> 
-    ``` ╔═══════════════════════════════════════════════════════════════╗ 
-        ║ "You have power over your code, not outside events.           ║ 
-        ║ Realize this, and you will find strength."                    ║ 
-        ║ — Marcus Aurelius (if he coded)                               ║ 
-        ╚═══════════════════════════════════════════════════════════════╝ ```
-👾 Muhammad Fawwaz Almumtaz
-
-SMK Student → Fullstack Dev → Cloud & AI Engineer (in progress)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%92%BB;Cloud+Engineer+in+Training+%E2%98%81%EF%B8%8F;AI+Engineer+in+Training+%F0%9F%A4%96;SMK+Student+%7C+Future+Tech+Lead+%F0%9F%9A%80" alt="Typing SVG" /> <br/>
-
     "The obstacle is the way. Every bug I fix, every deployment I ship, every container I orchestrate — that is the practice of a Stoic engineer. Write code not to impress, but to solve. Deploy not to show off, but to serve."
 
 </div>
-🧭 About Me
-
-name: Muhammad Fawwaz Almumtaz
-status: SMK Student | Fullstack Developer
-currently_learning:
-  - Container Orchestration (Docker & Kubernetes)
-  - Cloud Engineering (AWS / GCP / Azure)
-  - AI Engineering & LLM Integration
-looking_to_collaborate: Web Development Projects
-seeking_help_with: DevOps & Cloud Deployment
-contact: hatorimikael@gmail.com
-philosophy: "Amor Fati — Love your stack, love your errors"
-
-📊 GitHub Stats
-<div align="center"
-</div>
-⚡ Activity Graph
-<div align="center">
-
-</div>
-🛠️ Tech Stack
-🎨 Frontend
-
-⚙️ Backend & Runtime
-
-🗄️ Database
-
-☁️ Cloud & DevOps (Learning)
-
-🤖 AI Engineering (Learning)
-
-🗺️ Learning Roadmap
-
-[DONE] ████████████████████ Fullstack Web Dev
-[ACTIVE] ██████████░░░░░░░░░░ Containers & Docker
-[ACTIVE] ████░░░░░░░░░░░░░░░░ Cloud Engineering
-[ACTIVE] █░░░░░░░░░░░░░░░░░ AI Engineering
-[NEXT]   ░░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
-[NEXT]   ░░░░░░░░░░░░░░░░░░░░ CI/CD Pipelines
-
-💬 Stoic Code Philosophy
-<div align="center"> 
-    ``` ┌─────────────────────────────────────────────────────────────┐ 
-        │ "A good engineer, like a Stoic sage, is not disturbed       │ 
-        │ by what he cannot control — production outages,             │
-        │ merge conflicts, undefined behavior.                        │ 
-        │ He controls only his craft: clean code, clear docs,         │ 
-        │ and the discipline to push to main with confidence."        │ 
-        │   — Fawwaz in bathroom , probably at 2AM                    │ 
-        └─────────────────────────────────────────────────────────────┘ ``` </div>
-📫 Connect With Me
-
-**`SMK Student → Fullstack Dev → Cloud & AI Engineer (in progress)`**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%92%BB;Cloud+Engineer+in+Training+%E2%98%81%EF%B8%8F;AI+Engineer+in+Training+%F0%9F%A4%96;SMK+Student+%7C+Future+Tech+Lead+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-> *"The obstacle is the way. Every bug I fix, every deployment I ship,*
-> *every container I orchestrate — that is the practice of a Stoic engineer.*
-> *Write code not to impress, but to solve. Deploy not to show off, but to serve."*
-
-</div>
-
----
 
 ## 🧭 About Me
 
