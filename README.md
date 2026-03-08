@@ -1,27 +1,240 @@
-Hi 👋 , i am muhammad fawwaz almumtaz 
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  "You have power over your code, not outside events.         ║
+║   Realize this, and you will find strength."                 ║
+║                              — Marcus Aurelius (if he coded) ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+# 👾 Muhammad Fawwaz Almumtaz
+Done
+
+README-nya sudah jadi! Ini yang ditambahkan:
+
+📊 Stats & Streak — GitHub stats card, streak counter, top languages, trophy showcase, dan activity graph (semua pakai tema Tokyo Night yang gelap dan keren).
+
+🗺️ Learning Roadmap — Progress bar ASCII buat nunjukin journey dari Fullstack → Cloud → AI Engineering.
+
+💬 Stoic Code Philosophy — Dua kata bijak original yang menggabungkan stoikisme dengan dunia engineering, termasuk satu yang relate bange
+Readme
+Document · MD 
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Readme · MD
+<div align="center"> ``` ╔═══════════════════════════════════════════════════════════════╗ ║ "You have power over your code, not outside events. ║ ║ Realize this, and you will find strength." ║ ║ — Marcus Aurelius (if he coded) ║ ╚═══════════════════════════════════════════════════════════════╝ ```
+👾 Muhammad Fawwaz Almumtaz
+
+SMK Student → Fullstack Dev → Cloud & AI Engineer (in progress)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%92%BB;Cloud+Engineer+in+Training+%E2%98%81%EF%B8%8F;AI+Engineer+in+Training+%F0%9F%A4%96;SMK+Student+%7C+Future+Tech+Lead+%F0%9F%9A%80" alt="Typing SVG" /> <br/>
+
+    "The obstacle is the way. Every bug I fix, every deployment I ship, every container I orchestrate — that is the practice of a Stoic engineer. Write code not to impress, but to solve. Deploy not to show off, but to serve."
+
+</div>
+🧭 About Me
+yaml
+
+name: Muhammad Fawwaz Almumtaz
+status: SMK Student | Fullstack Developer
+currently_learning:
+  - Container Orchestration (Docker & Kubernetes)
+  - Cloud Engineering (AWS / GCP / Azure)
+  - AI Engineering & LLM Integration
+looking_to_collaborate: Web Development Projects
+seeking_help_with: DevOps & Cloud Deployment
+contact: hatorimikael@gmail.com
+philosophy: "Amor Fati — Love your stack, love your errors"
+
+📊 GitHub Stats
+<div align="center">
+
+</div>
+🏆 GitHub Trophies
+<div align="center">
+
+</div>
+⚡ Activity Graph
+<div align="center">
+
+</div>
+🛠️ Tech Stack
+🎨 Frontend
+
+⚙️ Backend & Runtime
+
+🗄️ Database
+
+☁️ Cloud & DevOps (Learning)
+
+🤖 AI Engineering (Learning)
+
+🗺️ Learning Roadmap
+
+[DONE] ████████████████████ Fullstack Web Dev
+[ACTIVE] ██████████░░░░░░░░░░ Containers & Docker
+[ACTIVE] ████░░░░░░░░░░░░░░░░ Cloud Engineering
+[ACTIVE] ███░░░░░░░░░░░░░░░░░ AI Engineering
+[NEXT]   ░░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
+[NEXT]   ░░░░░░░░░░░░░░░░░░░░ CI/CD Pipelines
+
+💬 Stoic Code Philosophy
+<div align="center"> ``` ┌─────────────────────────────────────────────────────────────┐ │ │ │ "A good engineer, like a Stoic sage, is not disturbed │ │ by what he cannot control — production outages, │ │ merge conflicts, undefined behavior. │ │ │ │ He controls only his craft: clean code, clear docs, │ │ and the discipline to push to main with confidence." │ │ │ │ — Fawwaz, probably at 2AM │ └─────────────────────────────────────────────────────────────┘ ``` </div>
+📫 Connect With Me
+
+**`SMK Student → Fullstack Dev → Cloud & AI Engineer (in progress)`**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%92%BB;Cloud+Engineer+in+Training+%E2%98%81%EF%B8%8F;AI+Engineer+in+Training+%F0%9F%A4%96;SMK+Student+%7C+Future+Tech+Lead+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+> *"The obstacle is the way. Every bug I fix, every deployment I ship,*
+> *every container I orchestrate — that is the practice of a Stoic engineer.*
+> *Write code not to impress, but to solve. Deploy not to show off, but to serve."*
+
+</div>
+
 ---
 
-* 🌱 I’m currently learning containers skill<br>
-* 👯 I’m looking to collaborate on web dev <br>
-* 🤔 I’m looking for help with <b> Dev Ops skill and Cloud Deployment <b> <br>
-* 📫 How to reach me: hatorimikael@gmail.com <br> <br>
+## 🧭 About Me
 
+```yaml
+name: Muhammad Fawwaz Almumtaz
+status: SMK Student | Fullstack Developer
+currently_learning:
+  - Container Orchestration (Docker & Kubernetes)
+  - Cloud Engineering (AWS / GCP / Azure)
+  - AI Engineering & LLM Integration
+looking_to_collaborate: Web Development Projects
+seeking_help_with: DevOps & Cloud Deployment
+contact: hatorimikael@gmail.com
+philosophy: "Amor Fati — Love your stack, love your errors"
+```
 
-## tech stack i use
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
-[![tailwind](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=fff)]()
-[![typescript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)]()
-[![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![php](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)]()
-[![laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel&style=for-the-badge)]()
-[![react](https://img.shields.io/badge/ReactJs-black?logo=react&logoColor=white&style=for-the-badge)]()
-[![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)]()
-[![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawwazalmumtaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawwazalmumtaz&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawwazalmumtaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=fawwazalmumtaz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## ⚡ Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fawwazalmumtaz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35)](https://github.com/fawwazalmumtaz)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### ⚙️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-E36002?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps *(Learning)*
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🤖 AI Engineering *(Learning)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🗺️ Learning Roadmap
+
+```
+[DONE] ████████████████████ Fullstack Web Dev
+[ACTIVE] ██████████░░░░░░░░░░ Containers & Docker
+[ACTIVE] ████░░░░░░░░░░░░░░░░ Cloud Engineering
+[ACTIVE] ███░░░░░░░░░░░░░░░░░ AI Engineering
+[NEXT]   ░░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
+[NEXT]   ░░░░░░░░░░░░░░░░░░░░ CI/CD Pipelines
+```
+
+---
+
+## 💬 Stoic Code Philosophy
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "A good engineer, like a Stoic sage, is not disturbed      │
+│   by what he cannot control — production outages,           │
+│   merge conflicts, undefined behavior.                      │
+│                                                             │
+│   He controls only his craft: clean code, clear docs,       │
+│   and the discipline to push to main with confidence."      │
+│                                                             │
+│          — Fawwaz, in bathroom probably at 2AM              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-hatorimikael%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatorimikael@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-fawwazalmumtaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawwazalmumtaz)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=fawwazalmumtaz&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+*"Per aspera ad astra — through hardship to the stars. One commit at a time."* 🚀
+
+</div>
