@@ -30,15 +30,11 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawwazgoreng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawwazagoreng&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawwazgoreng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fawwazgoreng&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border_radius=10)
 
 </div>
 
@@ -48,7 +44,7 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fawwazgoreng&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35)](https://github.com/fawwazalmumtaz)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fawwazgoreng&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35)](https://github.com/fawwazgoreng)
 
 </div>
 
@@ -131,7 +127,7 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-hatorimikael%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatorimikael@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-fawwazgoreng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawwazalmumtaz)
+[![GitHub](https://img.shields.io/badge/GitHub-fawwazgoreng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawwazgoreng)
 
 </div>
 
