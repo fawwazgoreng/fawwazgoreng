@@ -2,29 +2,20 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  "You have power over your code, not outside events.         ║
-║   Realize this, and you will find strength."                 ║
-║                              — Marcus Aurelius (if he coded) ║
+║  "You have power over your code, not outside events.          ║
+║   Realize this, and you will find strength."                  ║
+║                              — Marcus Aurelius (if he coded)  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 # 👾 Muhammad Fawwaz Almumtaz
-Done
 
-README-nya sudah jadi! Ini yang ditambahkan:
-
-📊 Stats & Streak — GitHub stats card, streak counter, top languages, trophy showcase, dan activity graph (semua pakai tema Tokyo Night yang gelap dan keren).
-
-🗺️ Learning Roadmap — Progress bar ASCII buat nunjukin journey dari Fullstack → Cloud → AI Engineering.
-
-💬 Stoic Code Philosophy — Dua kata bijak original yang menggabungkan stoikisme dengan dunia engineering, termasuk satu yang relate bange
-Readme
-Document · MD 
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-Readme · MD
-<div align="center"> ``` ╔═══════════════════════════════════════════════════════════════╗ ║ "You have power over your code, not outside events. ║ ║ Realize this, and you will find strength." ║ ║ — Marcus Aurelius (if he coded) ║ ╚═══════════════════════════════════════════════════════════════╝ ```
+<div align="center"> 
+    ``` ╔═══════════════════════════════════════════════════════════════╗ 
+        ║ "You have power over your code, not outside events.           ║ 
+        ║ Realize this, and you will find strength."                    ║ 
+        ║ — Marcus Aurelius (if he coded)                               ║ 
+        ╚═══════════════════════════════════════════════════════════════╝ ```
 👾 Muhammad Fawwaz Almumtaz
 
 SMK Student → Fullstack Dev → Cloud & AI Engineer (in progress)
@@ -34,7 +25,6 @@ SMK Student → Fullstack Dev → Cloud & AI Engineer (in progress)
 
 </div>
 🧭 About Me
-yaml
 
 name: Muhammad Fawwaz Almumtaz
 status: SMK Student | Fullstack Developer
@@ -48,12 +38,7 @@ contact: hatorimikael@gmail.com
 philosophy: "Amor Fati — Love your stack, love your errors"
 
 📊 GitHub Stats
-<div align="center">
-
-</div>
-🏆 GitHub Trophies
-<div align="center">
-
+<div align="center"
 </div>
 ⚡ Activity Graph
 <div align="center">
@@ -75,12 +60,20 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 [DONE] ████████████████████ Fullstack Web Dev
 [ACTIVE] ██████████░░░░░░░░░░ Containers & Docker
 [ACTIVE] ████░░░░░░░░░░░░░░░░ Cloud Engineering
-[ACTIVE] ███░░░░░░░░░░░░░░░░░ AI Engineering
+[ACTIVE] █░░░░░░░░░░░░░░░░░ AI Engineering
 [NEXT]   ░░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
 [NEXT]   ░░░░░░░░░░░░░░░░░░░░ CI/CD Pipelines
 
 💬 Stoic Code Philosophy
-<div align="center"> ``` ┌─────────────────────────────────────────────────────────────┐ │ │ │ "A good engineer, like a Stoic sage, is not disturbed │ │ by what he cannot control — production outages, │ │ merge conflicts, undefined behavior. │ │ │ │ He controls only his craft: clean code, clear docs, │ │ and the discipline to push to main with confidence." │ │ │ │ — Fawwaz, probably at 2AM │ └─────────────────────────────────────────────────────────────┘ ``` </div>
+<div align="center"> 
+    ``` ┌─────────────────────────────────────────────────────────────┐ 
+        │ "A good engineer, like a Stoic sage, is not disturbed       │ 
+        │ by what he cannot control — production outages,             │
+        │ merge conflicts, undefined behavior.                        │ 
+        │ He controls only his craft: clean code, clear docs,         │ 
+        │ and the discipline to push to main with confidence."        │ 
+        │   — Fawwaz in bathroom , probably at 2AM                    │ 
+        └─────────────────────────────────────────────────────────────┘ ``` </div>
 📫 Connect With Me
 
 **`SMK Student → Fullstack Dev → Cloud & AI Engineer (in progress)`**
@@ -118,21 +111,11 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawwazalmumtaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawwazgoreng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawwazalmumtaz&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border_radius=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawwazagoreng&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawwazalmumtaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=fawwazalmumtaz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawwazgoreng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=8)
 
 </div>
 
@@ -142,7 +125,7 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fawwazalmumtaz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35)](https://github.com/fawwazalmumtaz)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fawwazgoreng&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35)](https://github.com/fawwazalmumtaz)
 
 </div>
 
@@ -188,10 +171,10 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 ## 🗺️ Learning Roadmap
 
 ```
-[DONE] ████████████████████ Fullstack Web Dev
-[ACTIVE] ██████████░░░░░░░░░░ Containers & Docker
-[ACTIVE] ████░░░░░░░░░░░░░░░░ Cloud Engineering
-[ACTIVE] ███░░░░░░░░░░░░░░░░░ AI Engineering
+[ACTIVE] ████████████████░░░░░░Fullstack Web Dev
+[ACTIVE] █░░░░░░░░░░░░░░░░░░░ Containers & Docker
+[ACTIVE] █░░░░░░░░░░░░░░░░░░░ Cloud Engineering
+[NEXT]   ░░░░░░░░░░░░░░░░░░░░ AI Engineering
 [NEXT]   ░░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
 [NEXT]   ░░░░░░░░░░░░░░░░░░░░ CI/CD Pipelines
 ```
@@ -225,7 +208,7 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-hatorimikael%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatorimikael@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-fawwazalmumtaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawwazalmumtaz)
+[![GitHub](https://img.shields.io/badge/GitHub-fawwazgoreng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawwazalmumtaz)
 
 </div>
 
@@ -233,7 +216,7 @@ philosophy: "Amor Fati — Love your stack, love your errors"
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fawwazalmumtaz&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=fawwazgoreng&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Per aspera ad astra — through hardship to the stars. One commit at a time."* 🚀
 
