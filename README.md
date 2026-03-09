@@ -26,6 +26,7 @@ looking_to_collaborate: Web Development Projects
 seeking_help_with: DevOps & Cloud Deployment
 contact: hatorimikael@gmail.com
 philosophy: "Amor Fati — Love your stack, love your errors"
+word of wisdom: "every error that making you crazy , make you be better programmer"
 ```
 
 ---
