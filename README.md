@@ -17,7 +17,7 @@
 
 ```yaml
 name: Muhammad Fawwaz Almumtaz
-status: SMK Student | Fullstack Developer
+status: Vocational Student | Full Stack Developer
 currently_learning:
   - Container Orchestration (Docker & Kubernetes)
   - Cloud Engineering (AWS / GCP / Azure)
@@ -26,7 +26,7 @@ looking_to_collaborate: Web Development Projects
 seeking_help_with: DevOps & Cloud Deployment
 contact: hatorimikael@gmail.com
 philosophy: "Amor Fati — Love your stack, love your errors"
-word of wisdom: "every errors that make you crazy . develop you to be better programmer"
+word_of_wisdom: "Every error that makes you crazy develops you into a better programmer"
 ```
 
 ---
