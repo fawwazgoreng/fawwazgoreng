@@ -17,7 +17,7 @@
 
 ```yaml
 name: Muhammad Fawwaz Almumtaz
-status: Vocational Student | Full Stack Developer
+status: Vocational Student | Full Stack Web Developer
 currently_learning:
   - Container Orchestration (Docker & Kubernetes)
   - Cloud Engineering (AWS / GCP / Azure)
@@ -35,9 +35,17 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=fawwazgoreng&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border_radius=10)
+<img src="https://github-readme-stats.vercel.app/api?username=fawwazgoreng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawwazgoreng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=fawwazgoreng&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
+
+
 
 </div>
+
 
 ---
 
@@ -92,7 +100,7 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 ```
 [ACTIVE] ████████████████░░░░░░Fullstack Web Dev
-[ACTIVE] █░░░░░░░░░░░░░░░░░░░ Containers & Docker
+[ACTIVE] ██░░░░░░░░░░░░░░░░░░ Containers & Docker
 [ACTIVE] █░░░░░░░░░░░░░░░░░░░ Cloud Engineering
 [NEXT]   ░░░░░░░░░░░░░░░░░░░░ AI Engineering
 [NEXT]   ░░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
