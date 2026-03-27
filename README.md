@@ -35,7 +35,7 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fawwazgoreng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=fawwazgoreng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" /> -->
 
 <br/>
 
