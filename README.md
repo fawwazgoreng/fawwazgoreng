@@ -103,7 +103,7 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 [ACTIVE] ███░░░░░░░░░░░░░░░░░ Containers & Docker
 [ACTIVE] █░░░░░░░░░░░░░░░░░░░ Cloud Engineering
 [NEXT]   ░░░░░░░░░░░░░░░░░░░░ AI Engineering
-[NEXT]   ░░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
+[NEXT]   █░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
 [NEXT]   ░░░░░░░░░░░░░░░░░░░░ CI/CD Pipelines
 ```
 
