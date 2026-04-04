@@ -39,7 +39,6 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawwazgoreng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
 <img src="https://streak-stats.demolab.com?user=fawwazgoreng&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
 
 
