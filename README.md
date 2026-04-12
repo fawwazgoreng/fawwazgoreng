@@ -39,9 +39,8 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=fawwazgoreng&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
-
-
+<img src="https://meditation-cyan.vercel.app/streak?user=fawwazgoreng&theme=galaxy" width="650"/>
+<img src="https://meditation-cyan.vercel.app/stats?user=fawwazgoreng&theme=galaxy" height="260"/>
 
 </div>
 
