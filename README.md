@@ -39,8 +39,8 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 <br/>
 
-<img src="https://meditation-cyan.vercel.app/streak?user=fawwazgoreng&theme=galaxy" width="650"/>
-<img src="https://meditation-cyan.vercel.app/stats?user=fawwazgoreng&theme=galaxy" height="260"/>
+<img src="https://meditation-cyan.vercel.app/streak?user=fawwazgoreng&theme=galaxy" width="500"/>
+<img src="https://meditation-cyan.vercel.app/stats?user=fawwazgoreng&theme=galaxy" height="200"/>
 
 </div>
 
@@ -50,8 +50,8 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 ## ⚡ Activity Graph
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fawwazgoreng&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35)](https://github.com/fawwazgoreng)
+    
+<img src="https://meditation-cyan.vercel.app/activity?user=fawwazgoreng&theme=galaxy" width="100%"/>
 
 </div>
 
