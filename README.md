@@ -20,6 +20,7 @@ name: Muhammad Fawwaz Almumtaz
 status: Vocational Student | Full Stack Web Developer
 currently_learning:
   - Container Orchestration (Docker & Kubernetes)
+future_learning:
   - Cloud Engineering (AWS / GCP / Azure)
   - AI Engineering & LLM Integration
 looking_to_collaborate: Web Development Projects
