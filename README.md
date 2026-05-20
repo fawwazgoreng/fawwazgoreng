@@ -41,7 +41,7 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 <br/>
 
 <img src="https://meditation-cyan.vercel.app/streak?user=fawwazgoreng&theme=winter" width="500"/>
-<img src="winter" height="200"/>
+<img src="https://meditation-cyan.vercel.app/stats?user=fawwazgoreng&theme=winter" height="200"/>
 
 </div>
 
