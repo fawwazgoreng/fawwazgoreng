@@ -40,8 +40,8 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 <br/>
 
-<img src="https://meditation-cyan.vercel.app/streak?user=fawwazgoreng&theme=galaxy" width="500"/>
-<img src="https://meditation-cyan.vercel.app/stats?user=fawwazgoreng&theme=galaxy" height="200"/>
+<img src="https://meditation-cyan.vercel.app/streak?user=fawwazgoreng&theme=winter" width="500"/>
+<img src="winter" height="200"/>
 
 </div>
 
@@ -52,7 +52,7 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 <div align="center">
     
-<img src="https://meditation-cyan.vercel.app/activity?user=fawwazgoreng&theme=galaxy" width="100%"/>
+<img src="https://meditation-cyan.vercel.app/activity?user=fawwazgoreng&theme=winter" width="100%"/>
 
 </div>
 
