@@ -32,32 +32,6 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 
 ---
 
-## 📊 GitHub Streak
-
-<div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=fawwazgoreng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" /> -->
-
-<br/>
-
-<img src="https://meditation-cyan.vercel.app/streak?user=fawwazgoreng&theme=winter" width="500"/>
-<img src="https://meditation-cyan.vercel.app/stats?user=fawwazgoreng&theme=winter" height="200"/>
-
-</div>
-
-
----
-
-## ⚡ Activity Graph
-
-<div align="center">
-    
-<img src="https://meditation-cyan.vercel.app/activity?user=fawwazgoreng&theme=winter" width="100%"/>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
