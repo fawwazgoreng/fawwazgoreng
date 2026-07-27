@@ -22,7 +22,7 @@ currently_learning:
   - Container Orchestration (Docker & Kubernetes)
 future_learning:
   - Cloud Engineering (AWS / GCP / Azure)
-  - AI Engineering & LLM Integration
+  - Cyber Security
 looking_to_collaborate: Web Development Projects
 seeking_help_with: DevOps & Cloud Deployment
 contact: hatorimikael@gmail.com
@@ -75,9 +75,9 @@ word_of_wisdom: "Every error that makes you crazy develops you into a better pro
 [ACTIVE] ████████████████░░░░░░Fullstack Web Dev
 [ACTIVE] ███░░░░░░░░░░░░░░░░░ Containers & Docker
 [ACTIVE] █░░░░░░░░░░░░░░░░░░░ Cloud Engineering
-[NEXT]   ░░░░░░░░░░░░░░░░░░░░ AI Engineering
+[NEXT]   ░░░░░░░░░░░░░░░░░░░░ Cyber Security
 [NEXT]   █░░░░░░░░░░░░░░░░░░░ Kubernetes & Orchestration
-[NEXT]   ░░░░░░░░░░░░░░░░░░░░ CI/CD Pipelines
+[NEXT]   █░░░░░░░░░░░░░░░░░░░ CI/CD Pipelines
 ```
 
 ---
